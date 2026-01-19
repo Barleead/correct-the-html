@@ -31,7 +31,10 @@ To view the project locally, you can either open the project files in your code 
 ### Tasks
 
 Inside `index.html`:
-- [ ] Update the HTML tags so that they are correct and semantic
+- [x] Update the HTML tags so that they are correct and semantic
+- [x] corrected header and footer from generic <div>
+- [x] change sections from <div> to paragraph, main, or article as appropriate
+- [x] pushed changes to github
 
 
 ### Tips
